@@ -10,7 +10,8 @@
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
         "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
-        "pxt-scaling": "github:jwunderl/pxt-scaling#v0.1.2"
+        "pxt-scaling": "github:jwunderl/pxt-scaling#v0.1.2",
+        "color-coded-tilemap": "*"
     },
     "files": [
         "main.blocks",
